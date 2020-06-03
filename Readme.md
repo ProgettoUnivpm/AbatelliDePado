@@ -5,6 +5,72 @@ L'applicazione ci permette di ottenere delle informazioni sui contenuti degli al
 L'utente, dopo aver importato su Eclipse il progetto, deve cambiare le directory presenti nel package **nome** inserendo il giusto percorso per salvare i file generati sul proprio dispositivo. Dovrà, solo in seguito, avviare il programma come "Spring Boot App". A seguito di questi passaggi si potranno cominciare a fare le chiamate usando la porta  http://localhost:8080.
 
 Le richieste che sarà possibile fare, per esempio attraverso Postman, sono:
-* **GET/metadata:** permette di visualizzara tipo e nome di ogni dato estratto
-* **GET/dati:** permette di visualizzare i dati
-* **GET/stats:** permette di visualizzare le statisiche fatte
+
+> **GET** /metadata
+
+Query su Postman: **localhost:8080/metadati**
+
+Permette di visualizzara tipo e nome di ogni dato estratto
+
+> **GET** /album
+
+Query su Postman: **localhost:8080/album**
+
+Permette di visualizzare tutti i dati relativi agli albums
+
+> **GET** /dati
+
+Query su Postman: **localhost:8080/dati**
+
+Permette di visualizzare tutti i dati relativi ai contenuti multimediali di tutti gli album del profilo analizzato
+
+> **GET** /stats
+
+Query su Postman: **localhost:8080/stats**
+
+Permette di visualizzare tutte le statistiche dei contenuti multimediali
+
+> **GET** /stats/width
+
+Query su Postman: **localhost:8080/stats/width**
+
+Permette di visualizzare la lista con solo le statistiche riguandi la larghezza delle immagini
+
+> **GET** /stats/heigth
+
+Query su Postman: **localhost:8080/stats/heigth**
+
+Permette di visualizzare la lista con solo le statistiche riguandi l'altezza delle immagini
+
+> **GET** /stats/size
+
+Query su Postman: **localhost:8080/stats/size**
+
+Permette di visualizzare la lista con solo le statistiche riguandi la dimensione delle immagini
+
+> **GET** /stats/size
+
+Query su Postman: **localhost:8080/stats/size**
+
+Permette di visualizzare la lista con solo le statistiche riguandi la dimensione delle immagini
+
+> **GET** /stats/size
+
+Query su Postman: **localhost:8080/stats/size**
+
+Permette di visualizzare la lista con solo le statistiche riguandi la dimensione delle immagini
+
+> **GET** /timestamp/{timestamp}
+
+Query su Postman: **localhost:8080/timestamp/{timestamp}**
+
+Permette di visualizzare i contenuti multimediali filtrati (scelti dall'utente mediante gli Conditional Operators)
+
+Per fare la richiesta relativa filtri si possono usare i seguenti Conditional Operators nel seguente modo:
+
+-"$gt", "$lt", "$gte" "$lte": usare la seguente query nel path {timestamp} -->  "timestamp"="$gt":{2020-05-20 19:30:23}
+
+-"$bt", usare la seguente query nel path {timestamp} --> "timestamp"="$bt":[2020-05-20 19:30:23,2020-05-26 19:30:23]   (poi tasto destro "Endecode URI component")
+
+
+
