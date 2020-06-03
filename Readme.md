@@ -68,9 +68,11 @@ Permette di visualizzare i contenuti multimediali filtrati (scelti dall'utente m
 
 Per fare la richiesta relativa filtri si possono usare i seguenti Conditional Operators nel seguente modo:
 
--"$gt", "$lt", "$gte" "$lte": usare la seguente query nel path {timestamp} -->  "timestamp"="$gt":{2020-05-20 19:30:23}
 
--"$bt", usare la seguente query nel path {timestamp} --> "timestamp"="$bt":[2020-05-20 19:30:23,2020-05-26 19:30:23]   (poi tasto destro "Endecode URI component")
+$gt", "$lt", "$gte" "$lte": usare la seguente query nel path {timestamp} -->  "timestamp"="$gt":{2020-05-20 19:30:23}
 
+$bt", usare la seguente query nel path {timestamp} --> "timestamp"="$bt":[2020-05-20 19:30:23,2020-05-26 19:30:23]   (poi tasto destro "Endecode URI component")
 
+## Use Case ##
+<a href="https://ibb.co/8BT4G4m"><img src="https://i.ibb.co/H21pRpK/New-Model-Use-Case-Diagram.jpg" alt="New-Model-Use-Case-Diagram" border="0"></a>
 
