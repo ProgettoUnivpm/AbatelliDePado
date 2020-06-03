@@ -72,19 +72,20 @@ Per fare la richiesta relativa filtri si devono usare i Conditional Operators co
 I Conditional Operators che si possono usare per filtrare secondo la data di pubblicazione sono:
 - "$gt": maggiore (>)
 
-  Query su Postman: **localhost:8080/timestamp/"timestamp"="$gt":{2020-05-20 19:30:23}**
+  Query su Postman: **localhost:8080/timestamp/"timestamp"="$gt":{2020-05-19 19:30:23}**
 - "$lt": minore (<)
 
-  Query su Postman: **localhost:8080/timestamp/"timestamp"="$lt":{2020-05-20 19:30:23}**
+  Query su Postman: **localhost:8080/timestamp/"timestamp"="$lt":{2020-05-19 19:30:23}**
 - "$gte": maggiore uguale (>=)
 
-  Query su Postman: **localhost:8080/timestamp/"timestamp"="$gte":{2020-05-20 19:30:23}**
+  Query su Postman: **localhost:8080/timestamp/"timestamp"="$gte":{2020-05-19 19:30:23}**
 - "$lte": minore uguale (<=)
 
-  Query su Postman: **localhost:8080/timestamp/"timestamp"="$lte":{2020-05-20 19:30:23}**
+  Query su Postman: **localhost:8080/timestamp/"timestamp"="$lte":{2020-05-19 19:30:23}**
 - "$bt": compreso (>= value <=)
 
-  Query su Postman: **localhost:8080/timestamp/"timestamp"="$bt":[2020-05-20 19:30:23,2020-05-26 19:30:23]**
+  Query su Postman: **localhost:8080/timestamp/"timestamp"="$bt":[2020-05-19 19:30:23,2020-05-26 19:30:23]**
+
 
 **ATTENZIONE**: Bisogna scrivere la data e l'ora in questo formato: 2020-05-20 19:30:23
 
