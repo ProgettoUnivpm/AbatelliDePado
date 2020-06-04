@@ -90,8 +90,8 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 **ATTENZIONE**: Bisogna scrivere la data e l'ora in questo formato: 2020-05-20 19:30:23
 
 ## Use Case ##
+<p align="center">
 <a href="https://ibb.co/3fH3QWR"><img src="https://i.ibb.co/YDGCw80/finale.png" alt="finale" border="0"></a>
 
-<p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/56F0yzb/1.png" alt="1" border="0"></a>
 </p>
