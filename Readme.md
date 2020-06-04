@@ -92,4 +92,4 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 ## Use Case ##
 <a href="https://ibb.co/3fH3QWR"><img src="https://i.ibb.co/YDGCw80/finale.png" alt="finale" border="0"></a>
 
-<a href="https://sequencediagram.org/index.html#initialData=A4QwTgLglgxloDsIAIDCB7JZ0BscFMwAoUSWeEJZAcXwgBEQIQiiMtcCwBaAPloZMQALgDmdAII4ARgFcAtgAoAlG0wRseQgB5u3AY2bCAMlADOEbVLnzeRIA" alt="finale" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/56F0yzb/1.png" alt="1" border="0"></a>
