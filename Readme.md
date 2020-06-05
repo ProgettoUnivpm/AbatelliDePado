@@ -97,8 +97,9 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 </p>
 
 ### UML
-
+<p align="center">
 <a href="https://ibb.co/1ZpchTL"><img src="https://i.ibb.co/y0M2GqX/UMLL.png" alt="UMLL" border="0"></a>
+</p>
 
 ##### Package
 <p align="center">
@@ -106,13 +107,60 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 </p>
 
 ##### Class Diagram
-- 
+- progetto.esame.app
 
-
-
-
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/56F0yzb/1.png" alt="1" border="0"></a>
-
-
+<p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Z608zqR/app.png" alt="app" border="0"></a>
+</p>
+
+- progetto.esame.controller
+
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k2SpSVz/controller.png" alt="controller" border="0"></a>
+</p>
+
+- progetto.esame.database
+
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/fpHyHBr/database.png" alt="database" border="0"></a>
+</p>
+
+- progetto.esame.exception
+
+<p align="center">
+<a href="https://ibb.co/YQHXNh5"><img src="https://i.ibb.co/54bk1LQ/exception.png" alt="exception" border="0"></a>
+</p>
+
+- progetto.esame.filter
+
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QQMppM6/filter.png" alt="filter" border="0"></a>
+</p>
+
+- progetto.esame.model
+
+<p align="center">
+<a href="https://ibb.co/3zzfQ5h"><img src="https://i.ibb.co/ZmmH7RT/model.png" alt="model" border="0"></a>
+</p>
+
+- progetto.esame.service
+
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k1K480q/service.png" alt="service" border="0"></a>
+</p>
+
+- progetto.esame.stats.image
+
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1vnHHhr/stats-image.png" alt="stats-image" border="0"></a>
+</p>
+
+- progetto.esame.stats.model
+
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sFHV4BC/stats-model.png" alt="stats-model" border="0"></a>
+</p>
+
+
+
+
