@@ -95,3 +95,5 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/56F0yzb/1.png" alt="1" border="0"></a>
 </p>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Z608zqR/app.png" alt="app" border="0"></a>
