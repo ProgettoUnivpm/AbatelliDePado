@@ -89,11 +89,30 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 
 **ATTENZIONE**: Bisogna scrivere la data e l'ora in questo formato: 2020-05-20 19:30:23
 
-## Use Case ##
+## Impostazione progetto ##
+
+### Use Case
 <p align="center">
 <a href="https://ibb.co/3fH3QWR"><img src="https://i.ibb.co/YDGCw80/finale.png" alt="finale" border="0"></a>
+</p>
+
+### UML
+
+<a href="https://ibb.co/1ZpchTL"><img src="https://i.ibb.co/y0M2GqX/UMLL.png" alt="UMLL" border="0"></a>
+
+##### Package
+<p align="center">
+<a href="https://ibb.co/ncKvRRp"><img src="https://i.ibb.co/1q45bbc/package.png" alt="package" border="0"></a>
+</p>
+
+##### Class Diagram
+- 
+
+
+
+
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/56F0yzb/1.png" alt="1" border="0"></a>
-</p>
+
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Z608zqR/app.png" alt="app" border="0"></a>
