@@ -96,6 +96,7 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 <a href="https://ibb.co/3fH3QWR"><img src="https://i.ibb.co/YDGCw80/finale.png" alt="finale" border="0"></a>
 </p>
 
+
 ### UML
 <p align="center">
 <a href="https://ibb.co/1ZpchTL"><img src="https://i.ibb.co/y0M2GqX/UMLL.png" alt="UMLL" border="0"></a>
@@ -162,5 +163,46 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 </p>
 
 
+### Sequencial Diagram
+
+- chiamata GET/ album
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/rGrjfJZ/1.png" alt="1" border="0"></a>
+</p>
+
+- chiamata GET/ dati
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/hc24y2y/3.png" alt="3" border="0"></a>
+</p>
+
+- chiamata GET/ metadati
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Hzc5z4p/2.png" alt="2" border="0"></a>
+</p>
+
+- chiamata GET/ stats?field=media_url
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5cwBF9B/4.png" alt="4" border="0"></a>
+</p>
+
+- chiamata GET/ stats/width?field=larghezza
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/71F3tdt/5.png" alt="5" border="0"></a>
+</p>
+
+- chiamata GET/ stats/heigth?field=altezza
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6rs1BQb/6.png" alt="6" border="0"></a>
+</p>
+
+- chiamata GET/ stats/size?field=dimensione
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6XFZfT9/7.png" alt="7" border="0"></a>
+</p>
+
+- chiamata POST/ timetsamp/{timestamp}
+<p align="center">
+<a href="https://ibb.co/1QnM0zK"><img src="https://i.ibb.co/xLsY2FG/8.png" alt="8" border="0"></a>
+</p>
 
 
