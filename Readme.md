@@ -99,7 +99,7 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 - progetto.esame.database
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/fpHyHBr/database.png" alt="database" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/BBmf03N/database.png" alt="database" border="0"></a>
 </p>
 
 - progetto.esame.exception
