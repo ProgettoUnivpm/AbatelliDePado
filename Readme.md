@@ -93,7 +93,7 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 - progetto.esame.controller
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/k2SpSVz/controller.png" alt="controller" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dB0nv1z/controller.png" alt="controller" border="0"></a>
 </p>
 
 - progetto.esame.database
@@ -123,7 +123,7 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 - progetto.esame.service
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/k1K480q/service.png" alt="service" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/2ym09wF/service.png" alt="service" border="0"></a>
 </p>
 
 - progetto.esame.stats.image
