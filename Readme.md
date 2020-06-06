@@ -111,7 +111,7 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 - progetto.esame.filter
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/QQMppM6/filter.png" alt="filter" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TvTJmS3/filter.png" alt="filter" border="0"></a>
 </p>
 
 - progetto.esame.model
