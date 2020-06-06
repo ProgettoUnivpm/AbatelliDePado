@@ -185,4 +185,8 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 </p>
 
 
+### Autori e ruoli
+- **Abatelli Eros**
+- **De Padova Cecilia**
+
 
