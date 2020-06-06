@@ -144,42 +144,42 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 
 ### Sequencial Diagram
 
-- **chiamata GET/ album:** Controller esegue una chiamata tramite il metodo getAlbum() che ci restituisce una lista con tutti i dati relativi all'album.
+- **chiamata GET/ album:** Controller esegue una chiamata tramite il metodo *getAlbum()* che ci restituisce una lista con tutti i dati relativi all'album.
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/rG288VS/1.png" alt="1" border="0"></a>
 </p>
 
-- **chiamata GET/ dati:**  Controller esegue una chiamata tramite il metodo getDati() che ci restituisce una lista con tutti i dati relativi a tutti gli album.
+- **chiamata GET/ dati:**  Controller esegue una chiamata tramite il metodo *getDati()* che ci restituisce una lista con tutti i dati relativi a tutti gli album.
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ZzbRrpX/2.png" alt="2" border="0"></a>
 </p>
 
-- **chiamata GET/ metadati:** Controller esegue una chiamata tramite il metodo getArrayMetadata() che ci restituisce un ArrayList con i metadata.
+- **chiamata GET/ metadati:** Controller esegue una chiamata tramite il metodo *getArrayMetadata()* che ci restituisce un ArrayList con i metadata.
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DzpTMRV/3.png" alt="3" border="0"></a>
 </p>
 
-- **chiamata GET/ stats?field=media_url:** Controller esegue una chiamata tramite il metodo GetImageStats(String media_url) che ci restituisce un ArrayList con tutte le statistiche. Per far ciò c'è però bisogno che venga passata la lista con i dati a StatsImage attraverso il metodo dati.stream().count().
+- **chiamata GET/ stats?field=media_url:** Controller esegue una chiamata tramite il metodo *GetImageStats(String media_url)* che ci restituisce un ArrayList con tutte le statistiche. Per far ciò c'è però bisogno che venga passata la lista con i dati a StatsImage attraverso il metodo *dati.stream().count()*.
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Hqk6yj5/4.png" alt="4" border="0"></a>
 </p>
 
-- **chiamata GET/ stats?field=larghezza:** Controller esegue una chiamata tramite il metodo GetImageStats(String media_url) che ci restituisce un ArrayList con le statistiche relative alla larghezza. Per far ciò c'è però bisogno che venga passata la lista con i dati a StatsImage attraverso il metodo dati.stream().count().
+- **chiamata GET/ stats?field=larghezza:** Controller esegue una chiamata tramite il metodo *GetImageStats(String media_url)* che ci restituisce un ArrayList con le statistiche relative alla larghezza. Per far ciò c'è però bisogno che venga passata la lista con i dati a StatsImage attraverso il metodo *dati.stream().count()*.
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/BjXnc5r/5.png" alt="5" border="0"></a>
 </p>
 
-- **chiamata GET/ stats?field=altezza:** Controller esegue una chiamata tramite il metodo GetImageStats(String media_url) che ci restituisce un ArrayList con le statistiche relative all'altezza. Per far ciò c'è però bisogno che venga passata la lista con i dati a StatsImage attraverso il metodo dati.stream().count().
+- **chiamata GET/ stats?field=altezza:** Controller esegue una chiamata tramite il metodo *GetImageStats(String media_url)* che ci restituisce un ArrayList con le statistiche relative all'altezza. Per far ciò c'è però bisogno che venga passata la lista con i dati a StatsImage attraverso il metodo *dati.stream().count()*.
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/2tyVTvf/6.png" alt="6" border="0"></a>
 </p>
 
-- **chiamata GET/ stats?field=dimensione:** Controller esegue una chiamata tramite il metodo GetImageStats(String media_url) che ci restituisce un ArrayList con le statistiche relative alla dimensione. Per far ciò c'è però bisogno che venga passata la lista con i dati a StatsImage attraverso il metodo dati.stream().count().
+- **chiamata GET/ stats?field=dimensione:** Controller esegue una chiamata tramite il metodo *GetImageStats(String media_url)* che ci restituisce un ArrayList con le statistiche relative alla dimensione. Per far ciò c'è però bisogno che venga passata la lista con i dati a StatsImage attraverso il metodo *dati.stream().count()*.
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6wSGYtp/7.png" alt="7" border="0"></a>
 </p>
 
-- **chiamata POST/ timestamp/{timestamp}:** Controller esegue una chiamata tramite il metodo GetImageStats(String media_url) che ci restituisce la lista di dati filtrata. Per far ciò c'è però bisogno che venga passata la lista con i dati a DataFilter attraverso il metodo dati.size(). Ci interessa anche che nella lista timestamp abbia un determinato formato e questo lo ricaviamo tramite il metodo parse(Storage.dati.get(i).timestamp) che ci restituisce il timestamp fromattato.
+- **chiamata POST/ timestamp/{timestamp}:** Controller esegue una chiamata tramite il metodo *GetImageStats(String media_url)* che ci restituisce la lista di dati filtrata. Per far ciò c'è però bisogno che venga passata la lista con i dati a DataFilter attraverso il metodo *dati.size()*. Ci interessa anche che nella lista timestamp abbia un determinato formato e questo lo ricaviamo tramite il metodo *parse(Storage.dati.get(i).timestamp)* che ci restituisce il timestamp fromattato.
 <p align="center">
 <a href="https://ibb.co/nL6WP1g"><img src="https://i.ibb.co/tJQdL2m/8.png" alt="8" border="0"></a>
 </p>
