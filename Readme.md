@@ -29,9 +29,12 @@ Permette di visualizzare tutti i dati relativi ai contenuti multimediali di tutt
 
 > **GET** /stats
 
-Query su Postman: **localhost:8080/stats?field=media_url**
+Query su Postman: - **localhost:8080/stats?field=media_url**
+                  - **localhost:8080/stats?field=larghezza**
+                  - **localhost:8080/stats?field=altezza**
+                  - **localhost:8080/stats?field=dimensione*
 
-Permette di visualizzare tutte le statistiche dei contenuti multimediali. "media_url" può essere sostituito con "larghezza", "altezza" o "dimensione", in questi casi vengono restituite le statistiche relative al campo inserito.
+Permette di visualizzare tutte le statistiche dei contenuti multimediali. Inserendo "media_url" vengono restituite tutte, nel caso delle altre chiamate vengono restituite le statistiche di quel determinato campo. 
 
 
 > **POST** /timestamp/{timestamp}
@@ -161,17 +164,17 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/5cwBF9B/4.png" alt="4" border="0"></a>
 </p>
 
-- chiamata GET/ stats/width?field=larghezza
+- chiamata GET/ stats?field=larghezza
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/71F3tdt/5.png" alt="5" border="0"></a>
 </p>
 
-- chiamata GET/ stats/heigth?field=altezza
+- chiamata GET/ stats?field=altezza
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6rs1BQb/6.png" alt="6" border="0"></a>
 </p>
 
-- chiamata GET/ stats/size?field=dimensione
+- chiamata GET/ stats?field=dimensione
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6XFZfT9/7.png" alt="7" border="0"></a>
 </p>
