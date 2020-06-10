@@ -78,7 +78,7 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 
 ### UML
 <p align="center">
-<a href="https://ibb.co/1ZpchTL"><img src="https://i.ibb.co/y0M2GqX/UMLL.png" alt="UMLL" border="0"></a>
+<a href="https://ibb.co/zn4LdjR"><img src="https://i.ibb.co/bWKytqB/1.png" alt="1" border="0"></a>
 </p>
 
 #### Package
@@ -132,13 +132,13 @@ I Conditional Operators che si possono usare per filtrare secondo la data di pub
 - progetto.esame.stats.image
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/1vnHHhr/stats-image.png" alt="stats-image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/c3q5Pzh/stats-image.png" alt="stats-image" border="0"></a>
 </p>
 
 - progetto.esame.stats.model
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/sFHV4BC/stats-model.png" alt="stats-model" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yQdv2hJ/stats-model.png" alt="stats-model" border="0"></a>
 </p>
 
 
